@@ -32,4 +32,4 @@ Frequency	V_in (V)	V_out (mV)	Phase difference in seconds across the resistor	V 
 								
 								
 								
-								s
+								
